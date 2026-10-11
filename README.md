@@ -215,16 +215,16 @@ npm run seed:admin
 
 Issues were created before development began. Each feature was implemented on a dedicated branch and integrated through a pull request with a written self-review.
 
-| PR | Branch | Purpose |
-|---|---|---|
-| PR #1 | `feature/project-foundation` | Repo setup, initial structure |
-| PR #2 | `feature/backend-models` | MongoDB, Employee schema |
-| PR #3 | `feature/authentication` | Auth endpoints, JWT, bcrypt |
-| PR #4 | `feature/employee-crud` | Employee REST API |
-| PR #5 | `feature/frontend-auth` | React app, login, register |
-| PR #6 | `feature/employee-interface` | Employee UI, dashboard |
-| PR #7 | `test/quality-assurance` | Tests, refactoring, docs |
-| PR #8 | `chore/deployment` | Deployment config, final submission |
+| PR | Issue | Branch | Purpose |
+|---|---|---|---|
+| [PR #9](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/9) | [#1](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/1) | `feature/project-foundation` | Repo setup, initial structure, health endpoint |
+| [PR #10](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/10) | [#2](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/2) | `feature/backend-models` | MongoDB, Employee schema, express-validator |
+| [PR #11](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/11) | [#3](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/3) | `feature/authentication` | Auth endpoints, JWT, bcrypt, middleware, seed script |
+| [PR #12](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/12) | [#4](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/4) | `feature/employee-crud` | Employee REST API, search/filter, pagination, salary privacy |
+| [PR #13](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/13) | [#5](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/5) | `feature/frontend-auth` | React app, AuthContext, login, register, protected layout |
+| [PR #14](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/14) | [#6](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/6) | `feature/employee-interface` | Employee UI, debounced search, form, detail, admin dashboard |
+| [PR #15](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/15) | [#7](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/7) | `test/quality-assurance` | Unified 23-test suite, refactoring, architecture docs |
+| [PR #16](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/16) | [#8](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/8) | `chore/deployment` | Deployment config, runbook, final submission package |
 
 Since this is a solo submission, all PRs were reviewed as a self-review. No artificial external approvals were introduced.
 

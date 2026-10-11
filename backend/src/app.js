@@ -4,6 +4,7 @@ const cors = require('cors');
 const helmet = require('helmet');
 const morgan = require('morgan');
 const authRoutes = require('./routes/auth');
+const employeeRoutes = require('./routes/employees');
 const { errorHandler, notFound } = require('./middleware/errorHandler');
 
 const app = express();
@@ -25,6 +26,7 @@ app.get('/api/health', (req, res) => {
 });
 
 app.use('/api/auth', authRoutes);
+app.use('/api/employees', employeeRoutes);
 
 app.use(notFound);
 app.use(errorHandler);

@@ -21,7 +21,7 @@ No additional collaborators were present. No artificial accounts, fake reviews, 
 | [#13](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/13) | [#5](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/5) | `feature/frontend-auth` | AuthContext, Axios client, ProtectedRoute, Login/Register pages | 14:33:27 | 14:33:49 | 5m 52s | Merged |
 | [#14](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/14) | [#6](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/6) | `feature/employee-interface` | Employee directory, debounced search, form, details, admin dashboard | 14:39:03 | 14:39:28 | 5m 36s | Merged |
 | [#15](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/15) | [#7](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/7) | `test/quality-assurance` | Unified 23-test suite, refactoring, code quality, technical architecture | 14:44:39 | 14:45:00 | 5m 36s | Merged |
-| [#16](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/16) | [#8](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/8) | `chore/deployment` | Deployment configuration, runbooks, vercel SPA rewrite, final docs | 14:50:00 | Pending | 5m 21s | In Progress |
+| [#16](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/pull/16) | [#8](https://github.com/mayooreshmoodanwal/Assignment-4-WEB-AyushKumarSingh/issues/8) | `chore/deployment` | Deployment configuration, runbooks, vercel SPA rewrite, final docs | 14:50:17 | 14:50:36 | 5m 38s | Merged |
 
 ## Branch Naming Convention
 

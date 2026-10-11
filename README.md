@@ -236,8 +236,8 @@ Since this is a solo submission, all PRs were reviewed as a self-review. No arti
 
 | Environment | URL |
 |---|---|
-| Frontend (Vercel) | [To be updated after deployment] |
-| Backend (Render/Railway) | [To be updated after deployment] |
+| Frontend (Vercel) | https://employee-management-aks.vercel.app |
+| Backend API | https://employee-management-backend-aks.onrender.com (or local/configured host) |
 
 ## Testing
 
